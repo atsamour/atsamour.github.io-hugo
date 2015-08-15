@@ -1,0 +1,14 @@
+baseurl = "http://atsamour.github.io"
+languageCode = "en-us"
+title = "Arkadios Tsamourliadis"
+author = "Arkadios Tsamourliadis"
+theme = "hugo-uno"
+
+[params]
+description = "$ whois: active developer, passionate reader, curious as a child ↩"
+cv = ""
+facebook = "arkadios.tsam"
+twitter = "atsamour"
+github = "atsamour"
+linkedin = "arkadios-tsamourliadis"
+logo = "../images/logo.jpg"
